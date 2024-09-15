@@ -1,4 +1,4 @@
 # OOPs-CPP-GGI
 This my first Git Repository.
-cout<<"\n";
+cout<<endl;
 Author - Adil Rahman
